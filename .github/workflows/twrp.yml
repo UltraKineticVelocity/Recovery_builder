@@ -5,7 +5,7 @@ on:
 
 env:
   # (required) twrp manifest 
-  MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git
+  MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni
   # (required) manifest branch 
   BRANCH: twrp-8.1
   # (required) device codename i.e: sweet mojito.. 
